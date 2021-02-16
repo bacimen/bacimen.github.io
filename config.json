@@ -3,7 +3,7 @@
   "username": "bacimen",
   "name": "Buğra Altuğ Çimen",
   "userimg": "https://avatars.githubusercontent.com/u/46728230?v=4",
-  "sort": "full_name",
+  "sort": "created",
   "order": "asc",
   "includeFork": false,
   "theme": "dark.css",
@@ -11,7 +11,7 @@
    "owner"
   ],
   "twitter": null,
-  "linkedin": "bacimen",
+  "linkedin": null,
   "medium": null,
   "dribbble": null
  }
