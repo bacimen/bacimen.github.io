@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://i.pinimg.com/736x/a4/dc/9d/a4dc9d3fc44cf8b4f88cd2f9c4a93b1a.jpg");
+    url("https://beeimg.com/images/x76595788381.jpg");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://i.pinimg.com/736x/a4/dc/9d/a4dc9d3fc44cf8b4f88cd2f9c4a93b1a.jpg") center center fixed;
+    url("https://beeimg.com/images/x76595788381.jpg") center center fixed;
   --height: 50vh;
 }
 
@@ -591,10 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://i.pinimg.com/736x/a4/dc/9d/a4dc9d3fc44cf8b4f88cd2f9c4a93b1a.jpg") !important;
+      url("https://beeimg.com/images/x76595788381.jpg") !important;
   }
 }
-
-/* https://i.pinimg.com/736x/a4/dc/9d/a4dc9d3fc44cf8b4f88cd2f9c4a93b1a.jpg */
-/* https://i.imgur.com/FTTC7qf.png */
-/* https://i.imgur.com/G3uShPM.jpg */
